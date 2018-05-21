@@ -1,4 +1,3 @@
-Bazaarvoice Magento 2 Integration Extension
 =============================================
 
 [![Latest Stable Version](https://poser.pugx.org/bazaarvoice/bazaarvoice-magento2-ext/v/stable)](https://packagist.org/packages/bazaarvoice/bazaarvoice-magento2-ext)
